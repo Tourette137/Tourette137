@@ -121,8 +121,12 @@ Master's dissertation: *Interpretation and Execution of SQL over Files.*
 ### 📊 GitHub Overview
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tourette137&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Bruno's GitHub Statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tourette137&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tourette137&theme=github_dark" alt="Bruno's GitHub Statistics" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tourette137&theme=github_dark" alt="Top Languages by Commit" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Tourette137&theme=github-dark&hide_border=true" alt="Bruno's GitHub Streak" />
 </p>
 
 ---
